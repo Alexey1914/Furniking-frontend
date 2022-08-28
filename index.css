@@ -1196,6 +1196,7 @@ body{
 	align-items: center;
 	flex-wrap: wrap;
 	gap: 20px;
+	justify-content: center;
 }
 .footer-footer-text{
 	flex: 1 1 auto;
